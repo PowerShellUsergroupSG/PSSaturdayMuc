@@ -1,12 +1,12 @@
 # this file contains structured data about the event
 en:
-  name: "PowerShell Monday Germany 2016"
+  name: "PowerShell Saturday Munich 2017"
   location: "Munich, Germany"
-  start: "22.08.2016"
-  end: "22.08.2016"
+  start: "02.12.2017"
+  end: "02.12.2017"
 de:
-  name: "PowerShell Konferenz EU 2016"
-  location: "Hannover, Deutschland"
-  start: "20.04.2016"
-  end: "22.04.2016"
+  name: "PowerShell Saturday München 2017"
+  location: "München, Deutschland"
+  start: "02.12.2017"
+  end: "02.12.2017"
 seatsLeft: 0
