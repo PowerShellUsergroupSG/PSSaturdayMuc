@@ -4,8 +4,8 @@ col_sm: 6
 col_xs: 12
 
 speakers:
-  - name: "The Scripting Guy Ed Wilson"
-    img: "/img/EdWilson400.jpg"
+  - name: "Jaap Brasser"
+    img: "/img/Jaap Brasser.jpg"
     twitterurl: "https://twitter.com/ScriptingGuys"
     twittername: "@ScriptingGuys"
     blogurl: "https://blogs.technet.microsoft.com/heyscriptingguy/"
