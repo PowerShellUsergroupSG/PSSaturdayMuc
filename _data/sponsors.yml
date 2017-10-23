@@ -1,0 +1,12 @@
+﻿# define bootstrap grid sizes for speaker list
+col_md: 6
+col_sm: 6
+col_xs: 12
+
+sponsors:
+  - name: "Orange Networks"
+    img: "/img/OrangeNetworks.png"
+    url: "http://www.orange-networks.de/"
+  - name: "acentrix "
+    img: "/img/acentrix.png"
+    url: "http://acentrix.de/"

@@ -1,0 +1,69 @@
+# define bootstrap grid sizes for speaker list
+col_md: 6
+col_sm: 6
+col_xs: 12
+
+speakers:
+  - name: "The Scripting Guy Ed Wilson"
+    img: "/img/EdWilson400.jpg"
+    twitterurl: "https://twitter.com/ScriptingGuys"
+    twittername: "@ScriptingGuys"
+    blogurl: "https://blogs.technet.microsoft.com/heyscriptingguy/"
+    blogname: "Hey Scripting Guy!"
+    bio:
+      "Ed Wilson is the Microsoft Scripting Guy and a well-known scripting expert. He writes the daily Hey Scripting Guy! blog. He is a member of the Microsoft Operations Management Suite (OMS) team and has launched the new OMS Team blog. He has also spoken at TechEd and at the Microsoft internal TechReady conferences. He was the instigator for the popular PowerShell Saturday community conferences. He has written more than a 15 books including 12 on Windows scripting that were published by Microsoft Press. He has also contributed to nearly a dozen other books. His newest book by Microsoft Press is Windows PowerShell Step by Step 3rd edition.  
+      <br>
+      Ed holds more than 20 industry certifications, including Microsoft Certified Systems Engineer (MCSE) and Certified Information Systems Security Professional (CISSP). Prior to coming to work for Microsoft, he was a senior consultant for a Microsoft Gold Certified Partner where he specialized in Active Directory design and Exchange implementation. In his spare time he is writing a mystery novel tentatively titled Murder on Deck. For more about Ed you can go to http://ewblog.edwilson.com/ewblog/ "     
+  - name: "Jeff Wouters"
+    img: "/img/JeffWouters400.jpg"
+    twitterurl: "https://twitter.com/JeffWouters"
+    twittername: "@JeffWouters"
+    blogurl: "http://www.jeffwouters.nl "
+    blogname: "jeffwouters.nl "
+    bio:
+      "Back in 2007 I’ve started working in IT. Between then and now I’ve worked at a variety of companies such as a system integrator, retail company (fashion), consultancy firm and software vendor.
+      Then, in 2011 I’ve made the big step and started my own company, Methos IT, where I specialize in Microsoft System Center, Microsoft Hyper-V, Microsoft Windows clustering, Citrix XenApp, Citrix Provisioning Server, Citrix XenDesktop and Citrix XenServer.
+      Since I’m not the first person with this focus area, I wanted to make myself as unique as possible in this field, so I added my two passions to this: High Availability and PowerShell.
+      And just to be clear: I’m crazy about PowerShell… the ease of which you can accomplish tasks with it and the power (especially the power…) you can gain on your environment by utilizing the shell is something I love and find truly amazing.
+      <br><br><br><br>"
+  - name: "Rob Sewell"
+    img: "/img/RobSewell400.jpg" 
+    twitterurl: "https://twitter.com/sqldbawithbeard"
+    twittername: "@sqldbawithbeard"
+    blogurl: "https://sqldbawithabeard.com/"
+    blogname: "SQLDBAwithabeard"
+    bio:
+      "Rob is a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL (PaaS geddit?). He has volunteered and spoken at SQL community events through the UK and Europe and is a member of the committee that organises SQL Saturday Exeter. He is a proud supporter of the SQL and Powershell communities. 
+      <br>
+      He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. 
+      <br>
+      He has a fabulous beard."
+  - name: "Amanda Debler"
+    img: "/img/AmandaDebler400.jpg" 
+    twitterurl: "https://twitter.com/texmandie"
+    twittername: "@texmandie"
+    blogurl: "https://mandie.net/"
+    blogname: "Mandie´s Memos"
+    bio:
+      "Amanda is a Skype for Business admin who has spoken at PowerShell usergroup events and PowerShell Summit Europe 2015. She's a very active member of the PowerShell User Group Southern Germany :) 
+      <br>
+      When not staring at SIP traces or figuring out how to do less manual labor to manage her company's Unified Communications platform, she's skiing, biking or remodeling her house.<br><br>
+      "
+  - name: "Andreas Patt"
+    img: "/img/AndreasPatt400.jpg"
+    twitterurl: "https://twitter.com/andreas_patt"
+    twittername: "@andreas_patt"
+    # blogurl: "http://google.com"
+    # blogname: "MyBlog5"
+    bio:
+      "IT Consultant for PowerShell, Automation and System Center at Orange Networks. <br><br><br><br><br><br><br><br><br><br><br>"
+  - name: "Mathias Jessen"
+    img: "/img/MathiasJessen400.jpg"
+    twitterurl: "https://twitter.com/IISResetMe"
+    twittername: "@IISResetMe"
+    blogurl: "http://blog.iisreset.me"
+    blogname: "graceful is noforce"
+    bio:
+      "When awake, Mathias works with Information Security, but dreams about PowerShell operators and Active Directory replication when sound asleep. 
+      Always interested in: high-level discussions about security, system architecture and language design; and deep-founded disagreements over PowerShell feature implementations :-)"
+           # de: "Speaker bio and other stuff. In German"

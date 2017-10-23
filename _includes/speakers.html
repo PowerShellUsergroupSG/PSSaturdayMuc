@@ -1,0 +1,25 @@
+<section id="speakers">
+	<div class="container">
+        <h2>Speakers</h2>
+        <div class="row">
+            {% for speaker in site.data.speakers.speakers %}
+            <div class="col-md-{{ site.data.speakers.col_md }} col-sm-{{ site.data.speakers.col_sm }} col-xs-{{ site.data.speakers.col_xs }}">
+               <!-- uncetering <center> -->
+                <a href="{{ speaker.blogurl }}">
+                    <img alt="logo" class="img-responsive" src="{{ speaker.img | prepend: site.baseurl }}">
+                </a> <h3>{{ speaker.name }}</h3><br>
+                {{ speaker.bio }} <br><br>
+                {{ speaker.name }} is <a href="{{ speaker.twitterurl }}">{{ speaker.twittername }} </a> on twitter and writes the blog <a href="{{ speaker.blogurl }}"> {{ speaker.blogname}} </a>
+                <br>
+                <br>
+                <br>
+                <br>
+
+
+              <!-- </center> -->
+
+            </div>
+            {% endfor %}
+        <!-- <div id="speakers-gallery"></div> -->
+    </div>
+</section>

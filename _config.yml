@@ -1,0 +1,8 @@
+title: PSMondayEU
+name: PowerShell Monday Munich 2016
+description: PowerShell Monday Munich 2016
+author:
+lang: en
+baseurl: ""
+markdown: kramdown
+exclude: [vendor]
