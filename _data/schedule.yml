@@ -3,119 +3,100 @@ days:
   -
 
     active: true
-    date: "22.08.2016"
+    date: "02.12.2017"
     id: day1
     timeSlots:
       -
-        time: "13:00 - 13:30"
+        time: "09:00 - 09:15"
         tracks:
           -
             description:
-              de: "Sign in, grab a coffee, meet people."
-              en: "Sign in, grab a coffee, meet people."
+              de: "Welcome"
+              en: "Welcome"
             language: English
             name: "Registration and Welcome"
-            speaker: "Christian Lehrer & Amanda Debler"
+            speaker: "David das Neves, Andre Essing & Christian Lehrer"
       -
-        time: "13:30 - 14:30"
+        time: "09:15 - 10:15"
         tracks:
           -
             description:
-              de: "Would you drive an untested car? Would you take a medication that hadn't been tested? Then why use untested PowerShell code?! Are you really sure that your code does what it's supposed to? This session will give you a quick introduction to Pester, PowerShell's testing framework. It tells you why testing is important, why you should do it, and how it can make your life easier. This session uses real-life examples and can be your start to better and more reliable PowerShell code."
-              en: "Would you drive an untested car? Would you take a medication that hadn't been tested? Then why use untested PowerShell code?! Are you really sure that your code does what it's supposed to? This session will give you a quick introduction to Pester, PowerShell's testing framework. It tells you why testing is important, why you should do it, and how it can make your life easier. This session uses real-life examples and can be your start to better and more reliable PowerShell code."
+              de: "tbd"
+              en: "tbd"
             language: English
-            name: "Introduction to Pester"
-            speaker: "Andreas Patt"
+            name: "tbd"
+            speaker: "tbd"
 
       -
-        time: "14:30 - 15:30"
+        time: "10:30 - 11:30"
         tracks:
           -
             description:
-              de: "What does Office 365 have in common with Rosetta and New Horizons? We will see how using PowerShell to administer Skype for Business Online and Exchange Online is exactly like on-prem in some ways, but very different in a few critical ways."
-              en: "What does Office 365 have in common with Rosetta and New Horizons? We will see how using PowerShell to administer Skype for Business Online and Exchange Online is exactly like on-prem in some ways, but very different in a few critical ways."
+              de: "tbd"
+              en: "tbd"
             language: English
-            name: "Office 365 Administration"
-            speaker: "Amanda Debler"
+            name: "tbd"
+            speaker: "tbd"
 
       -
-        time: "15:30 - 16:00"
+        time: "11:45 - 12:45"
         tracks:
           -
             description:
-              de: "Our gracious sponsors are providing a variety of snacks, sodas and coffee, and Amanda will bring her American-style chocolate chip cookies."
-              en: "Our gracious sponsors are providing a variety of snacks, sodas and coffee, and Amanda will bring her American-style chocolate chip cookies."
+              de: "tbd"
+              en: "tbd"
             language: English
-            name: "Coffee and Snacks"
+            name: "tbd"
+            speaker: "tbd"
+
+
+      -
+        time: "12:45 - 14:00"
+        tracks:
+          -
+            description:
+              de: "lunch"
+              en: "lunch"
+            language: English
+            name: "lunch"
             speaker: "Everyone!"
 
 
+
       -
-        time: "16:00 - 17:00"
+        time: "14:00 - 15:00"
         tracks:
           -
             description:
-              de: "Mathias will tell us what JIT and JEA are, and what they mean for you, the administrator with something to protect... from other administrators."
-              en: "Mathias will tell us what JIT and JEA are, and what they mean for you, the administrator with something to protect... from other administrators."
+              de: "tbd"
+              en: "tbd"
             language: English
-            name: "JEA/JIT"
-            speaker: "Mathias Jessen"
-
-
+            name: "tbd"
+            speaker: "tbd"
 
       -
-        time: "17:00 - 18:00"
+        time: "15:15 - 16:15"
         tracks:
           -
             description:
-              de: "Every DBA will have a collection of scripts that they want to have on all of their instances. Maintenance scripts, troubleshooting scripts, post-installation scripts - with a dozen instances, these may be easy to manage manually. But when your number of instances increases, you still want that consistency and when you need to deploy an upgrade to the scripts, you want to test it prior to releasing to production. In this session, I will show how I tackle this for hundreds or thousands of instances using my DBA database and PowerShell."
-              en: "Every DBA will have a collection of scripts that they want to have on all of their instances. Maintenance scripts, troubleshooting scripts, post-installation scripts - with a dozen instances, these may be easy to manage manually. But when your number of instances increases, you still want that consistency and when you need to deploy an upgrade to the scripts, you want to test it prior to releasing to production. In this session, I will show how I tackle this for hundreds or thousands of instances using my DBA database and PowerShell."
+              de: "tbd"
+              en: "tbd"
             language: English
-            name: "PowerShell Script Deployment for the Busy DBA"
-            speaker: "Rob Sewell"
-
-      -
-        time: "18:00 - 18:45"
-        tracks:
-          -
-            description:
-              de: "Pizza and salad, courtesy our generous sponsors."
-              en: "Pizza and salad, courtesy our generous sponsors."
-            language: English
-            name: "Dinner"
-            speaker: ""
+            name: "tbd"
+            speaker: "tbd"
 
 
       -
-        time: "18:45 - 19:45"
+        time: "16:30 - 17:30"
         tracks:
           -
             description:
-              de: "Nano Server – Minimalism in Windows Server
-                   Nano Server is the next evolution of Windows Server. Where Server Code was still rather large and tough to manage, is this certainly not the case with Nano Server.
-                   Compared to a traditional installation of Windows Server there is a different way of managing the thing, but that mainly involves Windows PowerShell and Desired State Configuration.
-                   So you should be good, right?
-                   Well, let’s just do a session and see if that’s the case. During this time I’ll show you several demo’s to show the difference between it and a full blown Windows Server installation (you know, a server with a (u/lo)ser interface…eeuuhh… whatcha call it? Ow yeah, a GUI).
-                   I’l show you the difference both in architecture and usability, both on premise and in Azure."
-              en: "Nano Server – Minimalism in Windows Server
-                   Nano Server is the next evolution of Windows Server. Where Server Code was still rather large and tough to manage, is this certainly not the case with Nano Server.
-                   Compared to a traditional installation of Windows Server there is a different way of managing the thing, but that mainly involves Windows PowerShell and Desired State Configuration.
-                   So you should be good, right?
-                   Well, let’s just do a session and see if that’s the case. During this time I’ll show you several demo’s to show the difference between it and a full blown Windows Server installation (you know, a server with a (u/lo)ser interface…eeuuhh… whatcha call it? Ow yeah, a GUI).
-                   I’l show you the difference both in architecture and usability, both on premise and in Azure."
+              de: "tbd"
+              en: "tbd"
             language: English
-            name: "Nano Server – Minimalism in Windows Server"
-            speaker: "Jeff Wouters"            
-      -
-        time: "19:45 - 20:45"
-        tracks:
-          -
-            description:
-              de: "Both Windows PowerShell 4.0 and 5.0 feature Desired State Configuration as a key strategic feature, but the barrier to entry is a bit high for the harried network administrator. Wouldn't it be great if one could harness the power of DSC in a simple, easy-to-use point-and-click environment? Well, you can, and in this session, Ed Wilson, the Microsoft Scripting Guy, shows you how to harness DSC from within Microsoft's latest way cool product: Operations Management Suite. It is fun, powerful and easy to use."
-              en: "Both Windows PowerShell 4.0 and 5.0 feature Desired State Configuration as a key strategic feature, but the barrier to entry is a bit high for the harried network administrator. Wouldn't it be great if one could harness the power of DSC in a simple, easy-to-use point-and-click environment? Well, you can, and in this session, Ed Wilson, the Microsoft Scripting Guy, shows you how to harness DSC from within Microsoft's latest way cool product: Operations Management Suite. It is fun, powerful and easy to use."
-            language: English
-            name: "Unbelievably Easy DSC Using OMS"
-            speaker: "Ed Wilson"
+            name: "tbd"
+            speaker: "tbd"            
+      
 
    
 
