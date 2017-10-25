@@ -4,9 +4,9 @@ col_sm: 6
 col_xs: 12
 
 sponsors:
-  - name: "Orange Networks"
-    img: "/img/OrangeNetworks.png"
-    url: "http://www.orange-networks.de/"
-  - name: "acentrix "
-    img: "/img/acentrix.png"
-    url: "http://acentrix.de/"
+  - name: "OOP"
+    img: "/img/oop.png"
+    url: "http://www.oop-konferenz.de/oop2018.html"
+  - name: "URANO"
+    img: "/img/urano.png"
+    url: "https://urano.de/"
