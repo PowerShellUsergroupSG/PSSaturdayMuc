@@ -6,64 +6,58 @@ col_xs: 12
 speakers:
   - name: "Jaap Brasser"
     img: "/img/Jaap Brasser.jpg"
-    twitterurl: "https://twitter.com/ScriptingGuys"
-    twittername: "@ScriptingGuys"
-    blogurl: "https://blogs.technet.microsoft.com/heyscriptingguy/"
-    blogname: "Hey Scripting Guy!"
+    twitterurl: "https://twitter.com/Jaap_Brasser"
+    twittername: "@Jaap_Brasser"
+    blogurl: "http://jaapbrasser.com "
+    blogname: "Jaap Brasser's Blog"
     bio:
-      "Ed Wilson is the Microsoft Scripting Guy and a well-known scripting expert. He writes the daily Hey Scripting Guy! blog. He is a member of the Microsoft Operations Management Suite (OMS) team and has launched the new OMS Team blog. He has also spoken at TechEd and at the Microsoft internal TechReady conferences. He was the instigator for the popular PowerShell Saturday community conferences. He has written more than a 15 books including 12 on Windows scripting that were published by Microsoft Press. He has also contributed to nearly a dozen other books. His newest book by Microsoft Press is Windows PowerShell Step by Step 3rd edition.  
-      <br>
-      Ed holds more than 20 industry certifications, including Microsoft Certified Systems Engineer (MCSE) and Certified Information Systems Security Professional (CISSP). Prior to coming to work for Microsoft, he was a senior consultant for a Microsoft Gold Certified Partner where he specialized in Active Directory design and Exchange implementation. In his spare time he is writing a mystery novel tentatively titled Murder on Deck. For more about Ed you can go to http://ewblog.edwilson.com/ewblog/ "     
-  - name: "Jeff Wouters"
-    img: "/img/JeffWouters400.jpg"
-    twitterurl: "https://twitter.com/JeffWouters"
-    twittername: "@JeffWouters"
-    blogurl: "http://www.jeffwouters.nl "
-    blogname: "jeffwouters.nl "
+      "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions."     
+  - name: "André Kamman"
+    img: "/img/AndreKamman.jpeg"
+    twitterurl: "https://twitter.com/AndreKamman"
+    twittername: "@AndreKamman"
+    blogurl: "http://clouddba.io/"
+    blogname: "cloudDBA"
     bio:
-      "Back in 2007 I’ve started working in IT. Between then and now I’ve worked at a variety of companies such as a system integrator, retail company (fashion), consultancy firm and software vendor.
-      Then, in 2011 I’ve made the big step and started my own company, Methos IT, where I specialize in Microsoft System Center, Microsoft Hyper-V, Microsoft Windows clustering, Citrix XenApp, Citrix Provisioning Server, Citrix XenDesktop and Citrix XenServer.
-      Since I’m not the first person with this focus area, I wanted to make myself as unique as possible in this field, so I added my two passions to this: High Availability and PowerShell.
-      And just to be clear: I’m crazy about PowerShell… the ease of which you can accomplish tasks with it and the power (especially the power…) you can gain on your environment by utilizing the shell is something I love and find truly amazing.
-      <br><br><br><br>"
+      "André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland."
   - name: "Rob Sewell"
-    img: "/img/RobSewell400.jpg" 
+    img: "/img/Rob Sewell.png" 
     twitterurl: "https://twitter.com/sqldbawithbeard"
     twittername: "@sqldbawithbeard"
     blogurl: "https://sqldbawithabeard.com/"
     blogname: "SQLDBAwithabeard"
     bio:
-      "Rob is a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL (PaaS geddit?). He has volunteered and spoken at SQL community events through the UK and Europe and is a member of the committee that organises SQL Saturday Exeter. He is a proud supporter of the SQL and Powershell communities. 
-      <br>
-      He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. 
-      <br>
-      He has a fabulous beard."
-  - name: "Amanda Debler"
-    img: "/img/AmandaDebler400.jpg" 
-    twitterurl: "https://twitter.com/texmandie"
-    twittername: "@texmandie"
-    blogurl: "https://mandie.net/"
-    blogname: "Mandie´s Memos"
+      "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard."
+  - name: "Sylvio Hellmann"
+    img: "/img/Sylvio Hellmann.jpg" 
+    twitterurl: "https://twitter.com/Sylvio_Hellmann"
+    twittername: "@Sylvio_Hellmann"
+    # blogurl: ""
+    # blogname: ""
     bio:
-      "Amanda is a Skype for Business admin who has spoken at PowerShell usergroup events and PowerShell Summit Europe 2015. She's a very active member of the PowerShell User Group Southern Germany :) 
-      <br>
-      When not staring at SIP traces or figuring out how to do less manual labor to manage her company's Unified Communications platform, she's skiing, biking or remodeling her house.<br><br>
-      "
-  - name: "Andreas Patt"
-    img: "/img/AndreasPatt400.jpg"
-    twitterurl: "https://twitter.com/andreas_patt"
-    twittername: "@andreas_patt"
-    # blogurl: "http://google.com"
-    # blogname: "MyBlog5"
+      "Sylvio Hellmann is working as a Principal Consultant and Team Leader of the data group at URANO Informationssysteme GmbH. His main focus is SQL Server, Microsoft Business Intelligence/PowerBI as well as Machine Learning technologies on premise and in the cloud. He supports customers around the world to solve complex challenges in projects and in operational environments. Sylvio has also a deep knowledge of development skills and he loves to work with PowerShell."
+  - name: "William Durkin"
+    img: "/img/William Durkin.jpeg"
+    twitterurl: "https://twitter.com/sql_williamd"
+    twittername: "@sql_william"
+    blogurl: "http://www.williamdurkin.com/"
+    blogname: "William Durkin"
     bio:
-      "IT Consultant for PowerShell, Automation and System Center at Orange Networks. <br><br><br><br><br><br><br><br><br><br><br>"
-  - name: "Mathias Jessen"
-    img: "/img/MathiasJessen400.jpg"
-    twitterurl: "https://twitter.com/IISResetMe"
-    twittername: "@IISResetMe"
-    blogurl: "http://blog.iisreset.me"
-    blogname: "graceful is noforce"
+      "William Durkin is a DBA, Data Platform MVP, and Data Platform Architect for CloudDBA (http://clouddba.io). He uses his decade of experience with SQL Server to help multinational corporations achieve their data management goals. Born in the UK and now based in Germany, William has worked as a Database Developer and DBA on projects ranging from single server installations, up to environments spanning 5 continents, using a range of high availability solutions. William is a regular speaker at conferences around the globe, organizes the popular SQLGrillen event (http://sqlgrillen.com), and is a chapter leader for a German PASS chapter."
+  - name: "David das Neves"
+    img: "/img/David das Neves.jpg"
+    twitterurl: "https://twitter.com/david_das_neves"
+    twittername: "@david_das_neves"
+    blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
+    # blogname: "graceful is noforce"
     bio:
-      "When awake, Mathias works with Information Security, but dreams about PowerShell operators and Active Directory replication when sound asleep. 
-      Always interested in: high-level discussions about security, system architecture and language design; and deep-founded disagreements over PowerShell feature implementations :-)"
+      "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties of Powershell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Besides his work he writes his own blog, organizes the Powershell UG Munich and speaks at User Groups and Conferences on PS/Dev topics."
            # de: "Speaker bio and other stuff. In German"
+-   name: "Julien Reisdorffer"
+    img: "/img/Julien Reisdorfer.jpg"
+    #twitterurl: "https://twitter.com/david_das_neves"
+    #twittername: "@david_das_neves"
+    #blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
+    # blogname: "graceful is noforce"
+    bio:
+      "Julien joined Microsoft´s Cyber Defence, Security and Identity after gathering experience for over 7 years in multiple Security domains and roles. Combined with his extensive knowledge in the offensive security realm, he helps customers to approach Cyber Security in a holistic and effective manner, therefore offering a wide range of expertise from Security Architecture to detecting and responding to attacks."
