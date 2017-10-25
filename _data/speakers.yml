@@ -54,7 +54,7 @@ speakers:
       "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties of Powershell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Besides his work he writes his own blog, organizes the Powershell UG Munich and speaks at User Groups and Conferences on PS/Dev topics."
            # de: "Speaker bio and other stuff. In German"
   - name: "Julien Reisdorffer"
-    img: "/img/Julien Reisdorfer.jpg"
+    img: "/img/Julien Reisdorffer.jpg"
     #twitterurl: "https://twitter.com/david_das_neves"
     #twittername: "@david_das_neves"
     #blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
