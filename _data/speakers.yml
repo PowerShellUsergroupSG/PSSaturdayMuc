@@ -45,7 +45,7 @@ speakers:
     bio:
       "William Durkin is a DBA, Data Platform MVP, and Data Platform Architect for CloudDBA (http://clouddba.io). He uses his decade of experience with SQL Server to help multinational corporations achieve their data management goals. Born in the UK and now based in Germany, William has worked as a Database Developer and DBA on projects ranging from single server installations, up to environments spanning 5 continents, using a range of high availability solutions. William is a regular speaker at conferences around the globe, organizes the popular SQLGrillen event (http://sqlgrillen.com), and is a chapter leader for a German PASS chapter."
   - name: "David das Neves"
-    img: "/img/David das Neves.jpg"
+    img: "/img/David das Neves2.jpg"
     twitterurl: "https://twitter.com/david_das_neves"
     twittername: "@david_das_neves"
     blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
