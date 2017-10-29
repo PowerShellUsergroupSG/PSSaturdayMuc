@@ -52,7 +52,7 @@ function initialize() {
 
       var map = new google.maps.Map(document.getElementById('venue-map'), mapOptions);
 
-      var contentString = '<h2>acentrix GmbH</h2><p>Ingolstädter Str. 20<br>4. Stock<br>80807 München<br>Germany</p><p><a href="https://www.google.com/maps/place/Ingolst%C3%A4dter+Str.+20,+80807+M%C3%BCnchen,+Deutschland/@48.1862673,11.5826454,17z/data=!3m1!4b1!4m5!3m4!1s0x479e743af953f27d:0xd455f456e0ff80fa!8m2!3d48.1862673!4d11.5848341">Directions</a></p>'
+      var contentString = '<h2>Microsoft Deutschland</h2><p>Walter-Gropius-Str. 5<br>80807 München<br>Germany</p><p><a href="https://www.google.com/maps/place/Walter-Gropius-Straße+5,+80807+München,+Germany/@48.1776214,11.5914271,17z/data=!3m1!4b1!4m5!3m4!1s0x479e744a2881e6eb:0x8aa7b6ea343dfc1b!8m2!3d48.1776214!4d11.5936158?hl=en">Directions</a></p>'
 
       var infowindow = new google.maps.InfoWindow({
             content: contentString
