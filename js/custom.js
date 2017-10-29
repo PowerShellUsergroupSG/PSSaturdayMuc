@@ -41,7 +41,7 @@ $(document).ready(function(){
 var map;
 
 function initialize() {
-      var location = {lat: 48.1862673, lng: 11.5826454};
+      var location = {lat: 48.177804, lng: 11.593659};
 
       var mapOptions = {
             zoom: 17,

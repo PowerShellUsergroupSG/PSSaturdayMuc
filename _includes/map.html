@@ -1,6 +1,23 @@
 <section id="map">
 	<div class="container">
-		<h2>{{ site.data.misc[page.lang].map }}</h2>
+		<!--<h2>{{ site.data.misc[page.lang].map }}</h2>-->
+		<script>
+			function initMap() {
+			  var uluru = {lat: 48.177804, lng: 11.593659};
+			  var map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 4,
+				center: uluru
+			  });
+			  var marker = new google.maps.Marker({
+				position: uluru,
+				map: map
+			  });
+			}
+		  </script>
+		  <script async defer
+		  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCu4ThQjdkRi7vTlNAUoxI5WMQGxwt6rkU&callback=initMap">
+		  </script>
+
 		<div id="venue-map"></div>
 	</div>
 </section>
