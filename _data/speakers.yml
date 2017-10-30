@@ -5,7 +5,7 @@ col_xs: 12
 
 speakers:
   - name: "Jaap Brasser"
-    img: "/img/Jaap Brasser.jpg"
+    img: "/img/Jaap Brasser300.jpg"
     twitterurl: "https://twitter.com/Jaap_Brasser"
     twittername: "@Jaap_Brasser"
     blogurl: "http://jaapbrasser.com"
@@ -13,7 +13,7 @@ speakers:
     bio:
       "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions."     
   - name: "André Kamman"
-    img: "/img/AndreKamman.jpeg"
+    img: "/img/AndreKamman300.jpeg"
     twitterurl: "https://twitter.com/AndreKamman"
     twittername: "@AndreKamman"
     blogurl: "http://clouddba.io/"
@@ -21,7 +21,7 @@ speakers:
     bio:
       "André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland."
   - name: "Rob Sewell"
-    img: "/img/Rob Sewell.png" 
+    img: "/img/Rob Sewell300.png" 
     twitterurl: "https://twitter.com/sqldbawithbeard"
     twittername: "@sqldbawithbeard"
     blogurl: "https://sqldbawithabeard.com/"
@@ -29,7 +29,7 @@ speakers:
     bio:
       "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard."
   - name: "Sylvio Hellmann"
-    img: "/img/Sylvio Hellmann.jpg" 
+    img: "/img/Sylvio Hellmann300.jpg" 
     twitterurl: "https://twitter.com/Sylvio_Hellmann"
     twittername: "@Sylvio_Hellmann"
     # blogurl: ""
@@ -37,7 +37,7 @@ speakers:
     bio:
       "Sylvio Hellmann is working as a Principal Consultant and Team Leader of the data group at URANO Informationssysteme GmbH. His main focus is SQL Server, Microsoft Business Intelligence/PowerBI as well as Machine Learning technologies on premise and in the cloud. He supports customers around the world to solve complex challenges in projects and in operational environments. Sylvio has also a deep knowledge of development skills and he loves to work with PowerShell."
   - name: "William Durkin"
-    img: "/img/William Durkin.jpeg"
+    img: "/img/William Durkin300.jpeg"
     twitterurl: "https://twitter.com/sql_williamd"
     twittername: "@sql_william"
     blogurl: "http://www.williamdurkin.com/"
@@ -45,7 +45,7 @@ speakers:
     bio:
       "William Durkin is a DBA, Data Platform MVP, and Data Platform Architect for CloudDBA (http://clouddba.io). He uses his decade of experience with SQL Server to help multinational corporations achieve their data management goals. Born in the UK and now based in Germany, William has worked as a Database Developer and DBA on projects ranging from single server installations, up to environments spanning 5 continents, using a range of high availability solutions. William is a regular speaker at conferences around the globe, organizes the popular SQLGrillen event (http://sqlgrillen.com), and is a chapter leader for a German PASS chapter."
   - name: "David das Neves"
-    img: "/img/David das Neves2.jpg"
+    img: "/img/David das Neves300.jpg"
     twitterurl: "https://twitter.com/david_das_neves"
     twittername: "@david_das_neves"
     blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
@@ -54,7 +54,7 @@ speakers:
       "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties of Powershell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Besides his work he writes his own blog, organizes the Powershell UG Munich and speaks at User Groups and Conferences on PS/Dev topics."
            # de: "Speaker bio and other stuff. In German"
   - name: "Julien Reisdorffer"
-    img: "/img/Julien Reisdorffer.jpg"
+    img: "/img/Julien Reisdorffer300.jpg"
     #twitterurl: "https://twitter.com/david_das_neves"
     #twittername: "@david_das_neves"
     #blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
