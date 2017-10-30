@@ -22,10 +22,10 @@ days:
           -
             description:
               de: "tbd"
-              en: "tbd"
+              en: "An introduction session to show you how YOU can deploy your PowerShell module to a PowerShell Gallery (public or private) automatically<br>In this fast paced demo heavy session we will<br>- Use Plaster to create our module framework<br>- Use GitHub for Version Control<br>- Use Pester to develop our module with TDD<br>- Use VSTS to Build, Test (with Pester) and Release our changes to the PowerShell Gallery<br>Within 45 minutes you will have the tools that you require to continuously deliver changes safely to your published PowerShell module for the consumption of others all using a module that uses the Microsoft Cognitive Services Faces API to analyse Beards"
             language: English
-            name: "tbd"
-            speaker: "tbd"
+            name: "Continuous Delivery for your Module - Put your PowerShell modules in the gallery with just a commit."
+            speaker: "Rob Sewell, MVP"
 
       -
         time: "10:30 - 11:30"
