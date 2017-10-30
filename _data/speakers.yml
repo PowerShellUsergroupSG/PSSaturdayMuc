@@ -13,7 +13,7 @@ speakers:
     bio:
       "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions."     
   - name: "André Kamman"
-    img: "/img/AndreKamman300.jpeg"
+    img: "/img/AndreKamman300.jpg"
     twitterurl: "https://twitter.com/AndreKamman"
     twittername: "@AndreKamman"
     blogurl: "http://clouddba.io/"
@@ -37,7 +37,7 @@ speakers:
     bio:
       "Sylvio Hellmann is working as a Principal Consultant and Team Leader of the data group at URANO Informationssysteme GmbH. His main focus is SQL Server, Microsoft Business Intelligence/PowerBI as well as Machine Learning technologies on premise and in the cloud. He supports customers around the world to solve complex challenges in projects and in operational environments. Sylvio has also a deep knowledge of development skills and he loves to work with PowerShell."
   - name: "William Durkin"
-    img: "/img/William Durkin300.jpeg"
+    img: "/img/William Durkin300.jpg"
     twitterurl: "https://twitter.com/sql_williamd"
     twittername: "@sql_william"
     blogurl: "http://www.williamdurkin.com/"
