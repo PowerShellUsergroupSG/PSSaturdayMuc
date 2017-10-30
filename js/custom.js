@@ -38,9 +38,9 @@ $(document).ready(function(){
 });
 
 // google map
-//var map;
+var map;
 
-			function initMap() {
+/*			function initMap() {
 			  var uluru = {lat: 48.177804, lng: 11.593659};
 			  var map = new google.maps.Map(document.getElementById('map'), {
 				zoom: 10,
@@ -55,7 +55,9 @@ $(document).ready(function(){
                   <script async defer
                   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCu4ThQjdkRi7vTlNAUoxI5WMQGxwt6rkU&callback=initMap">
                   </script>
-/*function initialize() {
+
+*/
+function initialize() {
       var location = {lat: 48.177804, lng: 11.593659};
 
       var mapOptions = {
@@ -77,7 +79,7 @@ $(document).ready(function(){
             position: location,
             map: map,
             animation: google.maps.Animation.DROP,
-            title: 'acentrix GmbH'
+            title: 'Microsoft Deutschland'
       });
 
       marker.addListener('click', function() {
@@ -87,7 +89,7 @@ $(document).ready(function(){
 
 
 google.maps.event.addDomListener(window, 'load', initialize);
-*/
+
 
 // bootstrap tooltip
 $(function () {
