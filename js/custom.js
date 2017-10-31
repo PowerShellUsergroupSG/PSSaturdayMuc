@@ -69,7 +69,9 @@ function initialize() {
 
       var map = new google.maps.Map(document.getElementById('venue-map'), mapOptions);
 
-      var contentString = '<h2>Microsoft Deutschland</h2><p>Walter-Gropius-Str. 5<br>80807 München<br>Germany</p><p><a href="https://www.google.com/maps/place/Walter-Gropius-Straße+5,+80807+München,+Germany/@48.1776214,11.5914271,17z/data=!3m1!4b1!4m5!3m4!1s0x479e744a2881e6eb:0x8aa7b6ea343dfc1b!8m2!3d48.1776214!4d11.5936158?hl=en">Directions</a></p>'
+      //var contentString = '<h2>Microsoft Deutschland</h2><p>Walter-Gropius-Str. 5<br>80807 München<br>Germany</p><p><a href="https://www.google.com/maps/place/Walter-Gropius-Straße+5,+80807+München,+Germany/@48.1776214,11.5914271,17z/data=!3m1!4b1!4m5!3m4!1s0x479e744a2881e6eb:0x8aa7b6ea343dfc1b!8m2!3d48.1776214!4d11.5936158?hl=en">Directions</a></p>'
+      
+      var contentString = '<h2>Microsoft Deutschland</h2><p>Walter-Gropius-Str. 5<br>80807 München<br>Germany</p><p><a href="https://maps.googleapis.com/maps/api/js?key=AIzaSyCu4ThQjdkRi7vTlNAUoxI5WMQGxwt6rkU&callback=initMap">Directions</a></p>'
 
       var infowindow = new google.maps.InfoWindow({
             content: contentString
