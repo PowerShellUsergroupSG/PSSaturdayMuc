@@ -40,7 +40,7 @@ $(document).ready(function(){
 // google map
 var map;
 
-/*			function initMap() {
+			function initialize() {
 			  var uluru = {lat: 48.177804, lng: 11.593659};
 			  var map = new google.maps.Map(document.getElementById('map'), {
 				zoom: 10,
@@ -56,8 +56,8 @@ var map;
                   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCu4ThQjdkRi7vTlNAUoxI5WMQGxwt6rkU&callback=initMap">
                   </script>
 
-*/
-function initialize() {
+
+/*function initialize() {
       var location = {lat: 48.177804, lng: 11.593659};
 
       var mapOptions = {
@@ -91,7 +91,7 @@ function initialize() {
 
 
 google.maps.event.addDomListener(window, 'load', initialize);
-
+*/
 
 // bootstrap tooltip
 $(function () {
