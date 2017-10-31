@@ -32,22 +32,22 @@ days:
         tracks:
           -
             description:
-              de: "tbd"
-              en: "tbd"
+              de: "More to come"
+              en: "More to come"
             language: English
-            name: "tbd"
-            speaker: "tbd"
+            name: "PowerShell in Business Intelligence environments: Administration, Development & Deployment"
+            speaker: "Sylvio Hellmann"
 
       -
         time: "11:45 - 12:45"
         tracks:
           -
             description:
-              de: "tbd"
-              en: "tbd"
+              de: "The SQL Server agent was always the place where us DBAs would schedule everything we need to run unattended. In the cloud however, there are many tasks that need to run across the platform and not just on one virtual machine. And if you are using Azure SQL Databases, you don't even have the Agent available. Powershell is the language of choice to automate but where and how do you host the scripts, and how do you schedule execution of these scripts? This session is a an introduction into Azure Automation using Runbooks and Azure DSC specifically aimed at DBAs. All demos will be based on typical tasks a "Cloud DBA" will need to perform."
+              en: "The SQL Server agent was always the place where us DBAs would schedule everything we need to run unattended. In the cloud however, there are many tasks that need to run across the platform and not just on one virtual machine. And if you are using Azure SQL Databases, you don't even have the Agent available. Powershell is the language of choice to automate but where and how do you host the scripts, and how do you schedule execution of these scripts? This session is a an introduction into Azure Automation using Runbooks and Azure DSC specifically aimed at DBAs. All demos will be based on typical tasks a "Cloud DBA" will need to perform."
             language: English
-            name: "tbd"
-            speaker: "tbd"
+            name: "No More SQL Agent - Azure Automation for DBAs"
+            speaker: "André Kamman, MVP"
 
 
       -
@@ -55,8 +55,8 @@ days:
         tracks:
           -
             description:
-              de: "lunch"
-              en: "lunch"
+              de: "Get some food and drinks, you´re invited!"
+              en: "Get some food and drinks, you´re invited!"
             language: English
             name: "lunch"
             speaker: "Everyone!"
@@ -68,22 +68,22 @@ days:
         tracks:
           -
             description:
-              de: "tbd"
-              en: "tbd"
+              de: "In this session Jaap will cover a range of topics regarding Chat automation and the possibilities this gives us. We will dive into the concept of ChatOps, what it is, how we can implement it and what the benefits are. After this brief introduction we will dive into real-world examples of setting up and configuring your first chatbot, configuring security and resolving real-world incidents using this chatbot."
+              en: "In this session Jaap will cover a range of topics regarding Chat automation and the possibilities this gives us. We will dive into the concept of ChatOps, what it is, how we can implement it and what the benefits are. After this brief introduction we will dive into real-world examples of setting up and configuring your first chatbot, configuring security and resolving real-world incidents using this chatbot."
             language: English
-            name: "tbd"
-            speaker: "tbd"
+            name: "Chat automation in a modern IT environment "
+            speaker: "Jaap Brasser, MVP"
 
       -
         time: "15:15 - 16:15"
         tracks:
           -
             description:
-              de: "tbd"
-              en: "tbd"
+              de: "DBAs and sysadmins never have time for the fun stuff. We are always restoring a DB for a dev or setting up a new instance for that new BI project. What if I told you that you can make all that time consuming busy-work disappear? In this session we will learn to embrace the power in PowerShell to allow us to sit back and relax..... or rather focus on the real work of designing better, faster systems instead of fighting for short time slots when we can do actual work. Along the way we will see that we can benefit from the wide world of PowerShell expertise and avoid re-inventing the wheel, again!"
+              en: "DBAs and sysadmins never have time for the fun stuff. We are always restoring a DB for a dev or setting up a new instance for that new BI project. What if I told you that you can make all that time consuming busy-work disappear? In this session we will learn to embrace the power in PowerShell to allow us to sit back and relax..... or rather focus on the real work of designing better, faster systems instead of fighting for short time slots when we can do actual work. Along the way we will see that we can benefit from the wide world of PowerShell expertise and avoid re-inventing the wheel, again!"
             language: English
-            name: "tbd"
-            speaker: "tbd"
+            name: "PowerShell for the DBA: Why I love my inner pig-dog"
+            speaker: "William Durkin, MVP"
 
 
       -
@@ -91,11 +91,11 @@ days:
         tracks:
           -
             description:
-              de: "tbd"
-              en: "tbd"
+              de: "Julien & David will show in this very technical but thrilling session commonly used attack techniques using Powershell and possible countermeasures focusing on Win10 to provide very technical insights. Are you even aware of the defensive stack or have you just lost the race? It´s time to figure out."
+              en: "Julien & David will show in this very technical but thrilling session commonly used attack techniques using Powershell and possible countermeasures focusing on Win10 to provide very technical insights. Are you even aware of the defensive stack or have you just lost the race? It´s time to figure out."
             language: English
-            name: "tbd"
-            speaker: "tbd"            
+            name: "PowerShell - Red vs. Blue – Ready, Steady, Fight!"
+            speaker: "Julien Reisdorffer, MSFT & David das Neves, MSFT"            
       
 
    
