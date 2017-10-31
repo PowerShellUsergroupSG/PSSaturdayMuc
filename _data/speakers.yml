@@ -19,7 +19,7 @@ speakers:
     blogurl: "http://clouddba.io/"
     blogname: "cloudDBA"
     bio:
-      "André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland."
+      "André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland.<br><br><br>"
   - name: "Rob Sewell"
     img: "/img/Rob Sewell300.png" 
     twitterurl: "https://twitter.com/sqldbawithbeard"
