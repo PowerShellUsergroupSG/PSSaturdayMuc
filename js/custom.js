@@ -52,9 +52,9 @@ var map;
 			  });
 			}
             
-                  <script async defer
+                  //<script async defer
                   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCu4ThQjdkRi7vTlNAUoxI5WMQGxwt6rkU&callback=initialize">
-                  </script>
+                  //</script>
 
 
 /*function initialize() {
