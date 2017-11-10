@@ -4,9 +4,9 @@ col_sm: 6
 col_xs: 12
 
 sponsors:
-#  - name: "OOP"
-#    img: "/img/OOP.png"
-#   url: "http://www.oop-konferenz.de/oop2018.html"
+  - name: "OOP"
+    img: "/img/OOP.png"
+    url: "http://www.oop-konferenz.de/oop2018.html"
 #  - name: "URANO"
 #    img: "/img/URANO.png"
 #    url: "https://urano.de/"
