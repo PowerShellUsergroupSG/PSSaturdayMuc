@@ -12,14 +12,14 @@ speakers:
     blogname: "Jaap Brasser's Blog"
     bio:
       "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions."     
-  - name: "André Kamman"
-    img: "/img/AndreKamman300.jpg"
-    twitterurl: "https://twitter.com/AndreKamman"
-    twittername: "@AndreKamman"
-    blogurl: "http://clouddba.io/"
-    blogname: "cloudDBA"
+  - name: "Robert Spengler"
+    #img: ""
+    #twitterurl: ""
+    #twittername: ""
+    #blogurl: ""
+    #blogname: ""
     bio:
-      "André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland.<br><br><br>"
+      "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."
   - name: "Rob Sewell"
     img: "/img/Rob Sewell300.png" 
     twitterurl: "https://twitter.com/sqldbawithbeard"
@@ -61,3 +61,11 @@ speakers:
     # blogname: "graceful is noforce"
     bio:
       "Julien joined Microsoft´s Cyber Defence, Security and Identity after gathering experience for over 7 years in multiple Security domains and roles. Combined with his extensive knowledge in the offensive security realm, he helps customers to approach Cyber Security in a holistic and effective manner, therefore offering a wide range of expertise from Security Architecture to detecting and responding to attacks."
+  - name: "Mathias Jessen"
+    #img: ""
+    #twitterurl: ""
+    #twittername: ""
+    #blogurl: ""
+    #blogname: ""
+    #bio:
+    #  "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."
