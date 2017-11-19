@@ -13,11 +13,11 @@ speakers:
     bio:
       "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions."     
   - name: "Robert Spengler"
-    #img: ""
+    img: "/img/RobertSpengler.jpg"
     #twitterurl: ""
     #twittername: ""
-    #blogurl: ""
-    #blogname: ""
+    blogurl: "https://www.robert-spengler.de/"
+    blogname: "Robert Spengler"
     bio:
       "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."
   - name: "Rob Sewell"
@@ -67,5 +67,13 @@ speakers:
     #twittername: ""
     #blogurl: ""
     #blogname: ""
+    #bio:
+    #  "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."
+  - name: "Achim Wieser"
+    img: "/img/AchimWieser.jpg"
+    #twitterurl: ""
+    #twittername: ""
+    blogurl: "https://www.ScriptRunner.com"
+    blogname: "ScriptRunner"
     #bio:
     #  "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."

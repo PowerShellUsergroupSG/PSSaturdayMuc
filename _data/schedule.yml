@@ -39,19 +39,19 @@ days:
             speaker: "Sylvio Hellmann"
 
       -
-        time: "11:45 - 12:45"
+        time: "11:30 - 11:50"
         tracks:
           -
             description:
-              de: "The SQL Server agent was always the place where us DBAs would schedule everything we need to run unattended. In the cloud however, there are many tasks that need to run across the platform and not just on one virtual machine. And if you are using Azure SQL Databases, you don't even have the Agent available. Powershell is the language of choice to automate but where and how do you host the scripts, and how do you schedule execution of these scripts? This session is a an introduction into Azure Automation using Runbooks and Azure DSC specifically aimed at DBAs. All demos will be based on typical tasks a 'Cloud DBA' will need to perform."
-              en: "The SQL Server agent was always the place where us DBAs would schedule everything we need to run unattended. In the cloud however, there are many tasks that need to run across the platform and not just on one virtual machine. And if you are using Azure SQL Databases, you don't even have the Agent available. Powershell is the language of choice to automate but where and how do you host the scripts, and how do you schedule execution of these scripts? This session is a an introduction into Azure Automation using Runbooks and Azure DSC specifically aimed at DBAs. All demos will be based on typical tasks a 'Cloud DBA' will need to perform."
-            language: English
-            name: "No More SQL Agent - Azure Automation for DBAs"
-            speaker: "André Kamman, MVP"
+              de: "Ein humorvoller Einblick in die Do´s and Don´ts von Präsentationen mit PowerPoint."
+              en: "Ein humorvoller Einblick in die Do´s and Don´ts von Präsentationen mit PowerPoint."
+            language: German
+            name: "PowerPoint kills Speaker (german)"
+            speaker: "Robert Spengler"
 
 
       -
-        time: "12:45 - 14:00"
+        time: "11:50 - 12:40"
         tracks:
           -
             description:
@@ -60,9 +60,26 @@ days:
             language: English
             name: "lunch"
             speaker: "Everyone!"
-
-
-
+      -
+        time: "12:40 - 13:00"
+        tracks:
+          -
+            description:
+              de: ""
+              en: ""
+            language: English
+            name: "PowerShell Automation & Delegation with ScriptRunner"
+            speaker: "Achim Wieser"
+      -
+        time: "13:00 - 14:00"
+        tracks:
+          -
+            description:
+              de: ""
+              en: ""
+            language: English
+            name: "tba"
+            speaker: "Mathias Jessen"
       -
         time: "14:00 - 15:00"
         tracks:
