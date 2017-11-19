@@ -62,18 +62,18 @@ speakers:
     bio:
       "Julien joined Microsoft´s Cyber Defence, Security and Identity after gathering experience for over 7 years in multiple Security domains and roles. Combined with his extensive knowledge in the offensive security realm, he helps customers to approach Cyber Security in a holistic and effective manner, therefore offering a wide range of expertise from Security Architecture to detecting and responding to attacks."
   - name: "Mathias Jessen"
-    #img: ""
-    #twitterurl: ""
-    #twittername: ""
-    #blogurl: ""
-    #blogname: ""
+    img: "/img/MathiasJessen300.jpg"
+    twitterurl: "https://twitter.com/IISResetMe"
+    twittername: "@IISResetMe "
+    blogurl: "https://blog.iisreset.me/"
+    blogname: "graceful is noforce, pocketful of powershell"
     #bio:
     #  "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."
   - name: "Achim Wieser"
     img: "/img/AchimWieser.jpg"
-    #twitterurl: ""
-    #twittername: ""
+    twitterurl: "https://twitter.com/achimwieser"
+    twittername: "@AchimWieser"
     blogurl: "https://www.scriptrunner.blog/"
     blogname: "ScriptRunner"
-    #bio:
-    #  "Robert Spengler kommt aus dem Vertrieb und weiß, was eine gute Präsentation ausmacht. Heute ist er Speaker mit ironischem Charme, Autor und Regisseur für starke Auftritte. Spengler provoziert seine Klienten und Zuschauer. Er zeigt Ihnen ganz konkret, wie Sie Ihre Präsenz steigern, Ihr Publikum begeistern und für sich gewinnen.Robert ist seit 2000 Redner, Autor und Regisseur für starke Auftritte. In seinen Vorträgen und Coachings zeigt er Führungskräften und Rednern ganz konkret, wie sie ihre Präsentationskompetenz verbessern und ihre persönliche Präsenz steigern."
+    bio:
+      "Achim Wieser is a Software Developer at ScriptRunner by AppSphere AG"
