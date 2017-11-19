@@ -51,7 +51,7 @@ speakers:
     blogurl: "https://blogs.msdn.microsoft.com/daviddasneves/"
     blogname: "David on MSDN"
     bio:
-      "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties of Powershell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Besides his work he writes his own blog, organizes the Powershell UG Munich and speaks at User Groups and Conferences on PS/Dev topics."
+      "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties of Powershell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Besides his work he writes his own blog, organizes the Powershell UG Munich and speaks at User Groups and Conferences on PS/Dev topics.<br><br>"
            # de: "Speaker bio and other stuff. In German"
   - name: "Julien Reisdorffer"
     img: "/img/Julien Reisdorffer300.jpg"
